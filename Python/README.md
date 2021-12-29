@@ -90,7 +90,7 @@ $ print(int(7.4))
 ### The function int forms an integer by cutting off all digits after the decimal point.
 
 
-## Excercise 2: Python Variables
+## Excercise 3: Python Variables
 ### A variable is created the moment you first assign a value to it.
 ```bash
 x = 5
@@ -107,7 +107,24 @@ print(x)
 ```
 &nbsp; 
 
+### Example: Painting Rooms
 
+
+
+
+
+
+```bash
+import math
+small = 6 * 10
+big = 8 * 10
+one = 2 *(big + small)
+all_rooms = 20 * one
+one_can_coverage = 5 * 350
+cans = math.ceil(all_rooms / one_can_coverage)
+print(cans)
+```
+&nbsp; 
 
 
 
