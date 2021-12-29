@@ -209,6 +209,110 @@ print("Your Target Heart Rate Is:",target((int(input("Enter Your Age:"))), (int(
 ```
 &nbsp; 
 
+### Python Function #6: Branching and Multiple Sets of Instructions
+<p align="center">
+  <img width="629" height="463" src="https://github.com/jongtaek-kim/Machine-Learning-and-AI-For-Physicians/blob/2054b8d64549d1bb655acb9df930a489e179cdf4/docs/images/if.png">
+</p>
+
+### Python Function #7: Car Safety Recommendation For Your Child.
+```bash
+### car_safety
+def car_safety(weight, height, age):
+#kg, cm, years
+    if weight >= 36 or height >= 145 or age >= 8:
+        return("Seat belt")
+    elif 18 <= weight:
+        return("Booster")
+    elif 9 <= weight:
+        return("Forward-facing car seat")
+    else:
+        return("Backward-facing car seat")
+
+print ("Recommend",car_safety(40, 150, 10))
+print ("Recommend",car_safety(35, 150, 8))
+print (Recommend",car_safety(20, 140, 5))
+
+#print ("Recommend",car_safety((int(input("Enter Child's Weight in kg:"))), (int(input("Enter Child's Height in cm:"))), (int(input("Enter Child's Age:")))))
+```
+&nbsp; 
+
+### Python Function #8: Run A Function Using While And A Condition
+<p align="center">
+  <img width="624" height="408" src="https://github.com/jongtaek-kim/Machine-Learning-and-AI-For-Physicians/blob/dc10341a80de8424fd5f4720ba1bf945423b6a3b/docs/images/while.png">
+</p>
+
+
+```bash
+### say_uncle while function
+def say_uncle():
+    response ='aunt'
+    while response != 'uncle':
+        response = input("I'll quit if you say 'uncle':")
+    print("You said uncle, so I quit")
+say_uncle()
+```
+&nbsp;
+
+### Python Function #9: Write A Function To Replace An Item In A List.
+```bash
+def replace(List, old, new):
+    if old in List:
+        where = List.index(old)
+        List.remove(old)
+        List.insert(where, new)
+        return List
+    
+    else:
+        return List
+    
+print(replace([1,2,3,4], 4, 9))
+```
+&nbsp;
+
+### Python Function #10: Write A Function To Move An Item In A List.
+```bash
+def move_to_front(List, item):
+    if item in List:
+        List.remove(item)
+        List.insert(0,item)
+        return List
+    else:
+        return [List, item]
+    
+print(move_to_front([1,2,3,4], 4))   
+```
+&nbsp;
+
+
+
+### Python Function #11: Making Uses Of Multiple Lists Provided And Making A Function To Spell Out The Number Entered.
+```bash
+UNITS = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"]
+
+TENS = ["", "", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety"]
+
+TEENS = ["ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"]
+
+TWENTY = 20
+TEN =10
+
+def two_digit_word(num):
+    if num < 10:
+        return UNITS[num]
+    
+    if num < 20:
+        return TEENS[num % 10]
+    
+    else:
+        return (TENS[num // 10] + "-" + UNITS[num % 10])
+    
+print("Your number is spelled",two_digit_word(22))
+
+#print("Your number is spelled",two_digit_word(int(input("Enter a number between 0 and 99:"))))
+```
+&nbsp;
+
+
 ## Review Writing A Python Program
 <p align="center">
   <img width="552" height="442" src="https://github.com/jongtaek-kim/Machine-Learning-and-AI-For-Physicians/blob/391704a663ab19a8ac3bb6d79459ec582ecc3792/docs/images/writing_program.png">
