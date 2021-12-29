@@ -193,10 +193,26 @@ print("Cash or Credit Card Accepted")
 ```
 &nbsp; 
 
+### Python Function #5: Determine Targe Heart Rate For An App.
+```bash
+def target(AGE, REST_HEART, INTENSITY):
+    ##DETERMINE MAX HR
+    max_heart = 220 - AGE
+    
+    ##DETERMINE RESERVE
+    reserve = max_heart - REST_HEART
+    
+    ##TARGET HR
+    return (REST_HEART + INTENSITY * reserve)
 
+print("Your Target Heart Rate Is:",target((int(input("Enter Your Age:"))), (int(input("Enter Your Rest Heart Rate:"))), (float(input("Enter Workout Intensity (range from 0.1 to 1.0):")))))
+```
+&nbsp; 
 
-
-
+### Review Writing A Python Program
+<p align="center">
+  <img width="552" height="442" src="https://github.com/jongtaek-kim/Machine-Learning-and-AI-For-Physicians/blob/391704a663ab19a8ac3bb6d79459ec582ecc3792/docs/images/writing_program.png">
+</p>
 
 
 
