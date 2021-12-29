@@ -37,10 +37,67 @@ $ print(2*int(input("Enter a number:")))
 ```
 &nbsp; 
 
+### List of Built-in Python Functions [Here](https://docs.python.org/3/library/functions.html#int)
+
 ## Excercise 2: Data Type
+### type() is another built-in function 
+```bash
+$ print(type(5))
+$ print(type (5.0))
+$ print(type("string"))
+```
+&nbsp; 
+### An int is short for integer.
+### A float is a number with a decimal place - very useful for representing things like weights or proportions.
+### Strings are used in all modern programming languages to store and process textual information
+###       
 
 
+### What is wrong with this code?
+```bash
+$ print(Hello World)
+```
+&nbsp; 
 
+### Correct way to print a string.
+```bash
+$ print("Hello World")
+```
+&nbsp; 
+
+
+### True Division uses the slash (/) character as the operator sign. It always gives us a float.
+```bash
+$ print(10/3)
+$ print(10.5/3.5)
+$ print(11/3)
+```
+&nbsp; 
+
+### Floor Division- The operator "//" performs floor division
+```bash
+$ print(9//3)
+$ print(10//3)
+$ print(11//3)
+```
+&nbsp; 
+
+### What is the result from this code?
+```bash
+$ print(int(7.4))
+```
+&nbsp; 
+### The function int forms an integer by cutting off all digits after the decimal point.
+
+
+## Excercise 2: Python Variables
+### A variable is created the moment you first assign a value to it.
+```bash
+$ print(type(5))
+$ print(type (5.0))
+$ print(type("string"))
+```
+&nbsp; 
 
 
 
