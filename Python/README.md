@@ -93,9 +93,17 @@ $ print(int(7.4))
 ## Excercise 2: Python Variables
 ### A variable is created the moment you first assign a value to it.
 ```bash
-$ print(type(5))
-$ print(type (5.0))
-$ print(type("string"))
+x = 5
+y = "Elon"
+print(x)
+print(y)
+```
+&nbsp; 
+### Variables do not need to be declared with any particular type, and can even change type after they have been set.
+```bash
+x = 4       # x is of type int
+x = "Sally" # x is now of type str
+print(x)
 ```
 &nbsp; 
 
