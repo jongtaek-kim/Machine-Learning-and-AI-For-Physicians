@@ -188,7 +188,8 @@ def parking_fee(total_days):
     ## TOTAL COST
     return week_cost + day_cost
 
-print(parking_fee(int(input("How many days did you park?:"))))
+print("You owe $",parking_fee(int(input("How many days did you park?:"))))
+print("Cash or Credit Card Accepted")
 ```
 &nbsp; 
 
