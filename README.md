@@ -14,7 +14,7 @@
 </p>
 
 
-### Click Here For Tutorial.
+### Click Here For [Tutorial.](https://github.com/jongtaek-kim/Machine-Learning-and-AI-For-Physicians/tree/main/Python)
 
 ### B) [R Programming Language](https://www.rstudio.com/):  R language can  be used by non-programmers including data miners, data analysts, and statisticians. R programming language is a fantastic choice when it comes to crunching large numbers and is the preferred choice for machine learning applications that use a lot of statistical data. With user-friendly IDE’s like RStudio and various tools to draw graphs and manage libraries – R is a must-have programming language in a machine learning engineer’s toolkit. 
 
