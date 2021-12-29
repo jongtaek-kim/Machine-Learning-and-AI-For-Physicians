@@ -7,6 +7,13 @@
 
 ## In this Python exercise, we will cover some of basic Python syntax and semantics to understand how a program is written. This will serve as a building block for understanding how ML algorithms run. 
 
+## We will use [Jupyter Notebook](https://jupyter.org/) For This Tutorial.
+
+```bash
+$ conda install jupyter
+```
+&nbsp; 
+
 ## Excercise 1: Built In Functions
 ### Import a module (first line of program)
 ```bash
