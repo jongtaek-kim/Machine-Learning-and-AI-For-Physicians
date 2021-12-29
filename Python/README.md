@@ -209,7 +209,7 @@ print("Your Target Heart Rate Is:",target((int(input("Enter Your Age:"))), (int(
 ```
 &nbsp; 
 
-### Review Writing A Python Program
+## Review Writing A Python Program
 <p align="center">
   <img width="552" height="442" src="https://github.com/jongtaek-kim/Machine-Learning-and-AI-For-Physicians/blob/391704a663ab19a8ac3bb6d79459ec582ecc3792/docs/images/writing_program.png">
 </p>
