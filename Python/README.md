@@ -293,9 +293,6 @@ TENS = ["", "", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eight
 
 TEENS = ["ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"]
 
-TWENTY = 20
-TEN =10
-
 def two_digit_word(num):
     if num < 10:
         return UNITS[num]
