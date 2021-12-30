@@ -76,7 +76,7 @@
   <img width="774" height="375" src="https://github.com/jongtaek-kim/Machine-Learning-and-AI-For-Physicians/blob/92994ed9508ce6c4d0992dce0070633bb2061685/docs/images/Multilayer.png">
 </p>
 
-## E) Cost Function quantifies the error between predicted values and expected values and presents it in the form of a single real number.
+## E) Cost Function quantifies the error between actual values and predicted values and presents it in the form of a single real number.
 <p align="left">
   <img width="813" height="465" src="https://github.com/jongtaek-kim/Machine-Learning-and-AI-For-Physicians/blob/92994ed9508ce6c4d0992dce0070633bb2061685/docs/images/Cost.png">
 </p>
