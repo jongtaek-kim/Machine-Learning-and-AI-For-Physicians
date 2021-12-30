@@ -127,8 +127,9 @@
 </p>
 
 
-## 4. Technical Strategy For Optimizing Your Deep Learning Project.
-### This mini-lecture is in the ARUP Directory.
+## 3. Technical Strategy For Optimizing Your Deep Learning Project.
+### The ARUP/UofU trainees can access the lecture inside the ARUP directory:
+### S:\Medical Directorship\Medical Directorship 115\Public\JongTaek-Kim
 
-## 5. CNN Project Tutorial With [Kaggle.](https://www.kaggle.com/)
+## 4. CNN Project Tutorial With [Kaggle.](https://www.kaggle.com/)
 
