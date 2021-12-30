@@ -50,8 +50,15 @@
   <img width="1070" height="575" src="https://github.com/jongtaek-kim/Machine-Learning-and-AI-For-Physicians/blob/8842de1ed22e8baf8507373680b6ffd2698e0957/docs/images/AI_ML_DL.png">
 </p>
 
+## Perceptron is a model for understanding a single-layer ANN.
+
+<p align="left">
+  <img width="852" height="377" src="https://github.com/jongtaek-kim/Machine-Learning-and-AI-For-Physicians/blob/16803039f9df71c0150ba55c5c29776c34254247/docs/images/Perceptron.png">
+</p>
+
+
 
 ## 4. Technical Strategy For Optimizing Your Deep Learning Project
 
-## 5. CNN Project Tutorial
+## 5. CNN Project Tutorial With [Kaggle](https://www.kaggle.com/)
 
