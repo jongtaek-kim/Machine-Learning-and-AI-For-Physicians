@@ -1,10 +1,10 @@
-<h1 align="left">Practical Machine Learning and AI Tutorial For Physicians</h1>
+<h1 align="left">PRACTICAL MACHINE LEARNING AND DEEP LEARNING TUTORIAL FOR PHYSICIANS</h1>
 
 <p align="center">
   <img width="600" height="320" src="https://github.com/jongtaek-kim/Machine-Learning-and-AI-For-Physicians/blob/44f42ea3489ee177bec8e99009eaff7cef061e62/docs/images/ai-in-medicine-industry.jpeg">
 </p>
 
-## 1. Introduction to Programming
+## 1. INTRODUCTION TO PROGRAMMING
 ### Many Programming Language Exists. Here are some popular and newer ones for machine learning.
 
 ### A) [Python](https://www.python.org/): Python ranks first in the latest annual ranking of popular programming languages. The increasing adoption of machine learning worldwide is a major factor contributing to its growing popularity. Python is relatively easy to learn, scalable and open source. Python has many awesome visualization packages and useful core libraries like Numpy, scipy, pandas, matplotlib, seaborn, sklearn which really makes your work very easy and empower the machines to learn.
@@ -45,7 +45,7 @@
   <img width="303" height="158" src="https://github.com/jongtaek-kim/Machine-Learning-and-AI-For-Physicians/blob/065e0b1d867fc918169ba1ea6c4a01a10bd7f7d9/docs/images/Go.png">
 </p>
 
-## 2. Introduction to AI, Machine Learning (ML), Deep Learning (DL): Key Concepts.
+## 2. INTRODUCTION TO MACHINE LEARNING AND DEEP LEARNING KEY CONCEPTS.
 <p align="left">
   <img width="1070" height="575" src="https://github.com/jongtaek-kim/Machine-Learning-and-AI-For-Physicians/blob/8842de1ed22e8baf8507373680b6ffd2698e0957/docs/images/AI_ML_DL.png">
 </p>
@@ -127,9 +127,9 @@
 </p>
 
 
-## 3. Technical Strategy For Optimizing Your Deep Learning Project.
+## 3. TECHNICAL STRATEGY FOR OPTIMIZING YOUR DEEP LEARNING PROJECT
 ### The ARUP/UofU trainees can access the lecture inside the ARUP directory:
 ### S:\Medical Directorship\Medical Directorship 115\Public\JongTaek-Kim
 
-## 4. CNN Project Tutorial With [Kaggle.](https://www.kaggle.com/)
+## 4. CNN PROJECT TUTORIAL WITH [Kaggle.](https://www.kaggle.com/)
 
