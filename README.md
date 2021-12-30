@@ -45,7 +45,7 @@
   <img width="303" height="158" src="https://github.com/jongtaek-kim/Machine-Learning-and-AI-For-Physicians/blob/065e0b1d867fc918169ba1ea6c4a01a10bd7f7d9/docs/images/Go.png">
 </p>
 
-## 2. Introduction to AI, Machine Learning (ML), Deep Learning (DL)
+## 2. Introduction to AI, Machine Learning (ML), Deep Learning (DL): Key Concepts.
 <p align="left">
   <img width="1070" height="575" src="https://github.com/jongtaek-kim/Machine-Learning-and-AI-For-Physicians/blob/8842de1ed22e8baf8507373680b6ffd2698e0957/docs/images/AI_ML_DL.png">
 </p>
