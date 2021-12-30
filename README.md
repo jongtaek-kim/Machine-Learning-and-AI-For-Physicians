@@ -118,7 +118,7 @@
   <img width="877" height="466" src="https://github.com/jongtaek-kim/Machine-Learning-and-AI-For-Physicians/blob/f8a8b19fc032b01e77729e226502e204c6a166ab/docs/images/Regularizers.png">
 </p>
 <p align="left">
-  <img width="877" height="363" src="https://github.com/jongtaek-kim/Machine-Learning-and-AI-For-Physicians/blob/f8a8b19fc032b01e77729e226502e204c6a166ab/docs/images/KerasRegularizers.png">
+  <img width="877" height="281" src="https://github.com/jongtaek-kim/Machine-Learning-and-AI-For-Physicians/blob/567897ecb5fbdd6d4c5e190327636e3366e7dae2/docs/images/KerasRegularizers.png">
 </p>
 
 ## I) Dropout: This is the one of the most interesting types of regularization techniques. It also produces very good results and is consequently the most frequently used regularization technique in the field of deep learning
