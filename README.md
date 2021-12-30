@@ -126,10 +126,8 @@
   <img width="695" height="643" src="https://github.com/jongtaek-kim/Machine-Learning-and-AI-For-Physicians/blob/f8a8b19fc032b01e77729e226502e204c6a166ab/docs/images/Dropout.png">
 </p>
 
+## 3. CNN PROJECT TUTORIAL WITH [Kaggle.](https://www.kaggle.com/)
 
-## 3. TECHNICAL STRATEGY FOR OPTIMIZING YOUR DEEP LEARNING PROJECT
+## 4. TECHNICAL STRATEGY FOR OPTIMIZING YOUR DEEP LEARNING PROJECT
 ### The ARUP/UofU trainees can access the lecture inside the ARUP directory:
 ### S:\Medical Directorship\Medical Directorship 115\Public\JongTaek-Kim
-
-## 4. CNN PROJECT TUTORIAL WITH [Kaggle.](https://www.kaggle.com/)
-
