@@ -103,7 +103,7 @@
   <img width="1024" height="370" src="https://github.com/jongtaek-kim/Machine-Learning-and-AI-For-Physicians/blob/7517452cb4b8426f74e8e55e00efe1354c8ca4f4/docs/images/LearningRate.png">
 </p>
 
-## I) Overfitting: One of the most important aspects when training neural networks is avoiding overfitting. 
+## I) Overfitting: One of the most important aspects when training neural networks. 
 ### Overfitting refers to the phenomenon where a neural network models the training data very well but fails when it sees new data from the same problem domain.
 <p align="left">
   <img width="1040" height="224" src="https://github.com/jongtaek-kim/Machine-Learning-and-AI-For-Physicians/blob/f8a8b19fc032b01e77729e226502e204c6a166ab/docs/images/Overfitting2.png">
