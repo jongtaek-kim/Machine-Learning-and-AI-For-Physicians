@@ -50,7 +50,7 @@
   <img width="1070" height="575" src="https://github.com/jongtaek-kim/Machine-Learning-and-AI-For-Physicians/blob/8842de1ed22e8baf8507373680b6ffd2698e0957/docs/images/AI_ML_DL.png">
 </p>
 
-## A) Many Ideas Of Deep Learning (Neural Networks) Have been Around For Decades. Why Are these Ideas Taking Off Now?
+## A) Many Ideas Of Deep Learning (Neural Networks) Have been Around For Decades. Why Are These Ideas Taking Off Now?
 ### Two Of The Biggest Drivers Of Recent Progress Have Been: 1) Data Availability And 2) Computational Scale.
 
 <p align="left">
@@ -127,6 +127,13 @@
 </p>
 
 ## 3. CNN PROJECT TUTORIAL WITH [Kaggle.](https://www.kaggle.com/)
+<p align="left">
+  <img width="1108" height="392" src="https://github.com/jongtaek-kim/Machine-Learning-and-AI-For-Physicians/blob/75ea03af95bdbc5ec7b56dc20886155bd704ebe8/docs/images/MNIST.png">
+</p>
+
+
+
+
 
 ## 4. TECHNICAL STRATEGY FOR OPTIMIZING YOUR DEEP LEARNING PROJECT
 ### The ARUP/UofU trainees can access the lecture inside the ARUP directory:
